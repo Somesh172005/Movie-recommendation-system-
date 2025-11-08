@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation Systems
 
 A simple movie recommendation system using the [MovieLens dataset](https://grouplens.org/datasets/movielens/).  
 It includes two approaches: **Content-Based Filtering** and **Collaborative Filtering**.
